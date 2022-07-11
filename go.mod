@@ -1,4 +1,4 @@
-module weetech.ch/email
+module github.com/weetech-software/go-email
 
 go 1.18
 
