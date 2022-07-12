@@ -30,4 +30,4 @@ func SendEmail(sender string, recipients []string, subject string, message strin
     if err := d.DialAndSend(m); err != nil {
         panic(err)
     }
-
+}
